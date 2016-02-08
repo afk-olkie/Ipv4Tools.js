@@ -2,10 +2,7 @@
     "use strict";
 
     //ensure that there is a console.log function of some kind
-    var console = window.console || {
-        log : function () {}
-
-    };
+    var console = window.console || { log : function () {} };
 
     /**
      * Ipv4Tools class constructor
