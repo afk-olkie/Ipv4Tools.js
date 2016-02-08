@@ -1,0 +1,4 @@
+#only track jasmine files we depend on for testing
+/test/jasmine/*
+!/test/jasmine/lib/
+
